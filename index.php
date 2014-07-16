@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 <center class="header_part">
-<span class="ldap_title">LDAP Login</span>
+<span class="ldap_title">COMPANY_NAME LDAP Login</span>
 <form name="form_ldap" action="auth.php" method="post">
 	<table border="0" cellspacing="5" cellpadding="5">
 		<tr>

@@ -29,9 +29,9 @@ class ldap_class
 		switch($service)
 		{
 			case "CONTAINER1":
-				 $this->server = "x.x.x.x";
+				 $this->server = "X.X.X.X";
 				 $this->port   = 389;
-				 $this->basedn = "ou=groups,dc=nucloudglobal,dc=com";
+				 $this->basedn = "BASE_DN";
 				 break;
 			default:
 				 $this->server = "127.0.0.1";
