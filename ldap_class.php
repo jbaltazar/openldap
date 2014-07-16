@@ -23,7 +23,7 @@ class ldap_class
 
 	function auth_type($service = null)
 	{
-		/***
+		/*** 
 		Purpose: To select which Server and connection will be going to use
 		***/
 		switch($service)
